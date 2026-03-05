@@ -1,0 +1,5 @@
+{
+  "name": "HelioTrace",
+  "description": "Sistema de monitoreo y trazabilidad solar para la gestión de paneles fotovoltaicos e infraestructura IoT.",
+  "requestFramePermissions": []
+}
